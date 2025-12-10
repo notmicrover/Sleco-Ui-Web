@@ -1,37 +1,40 @@
-Sleco-Ui 网页项目
+# Sleco-Ui 网页项目
 
-原理:
+## 原理:
 
-把原本的Sleco-Ui.html分离成:
+#### 把原本的Sleco-Ui.html分离成:
 
-· index.html
+### · index.html
 
-· style.css
+### · style.css
 
-以及最重要的一项!
+### 以及最重要的一项!
 
-· main.js
+### · main.js
 
-有了这三项，就可以上传到CloudFlare
+#### 有了这三项，就可以上传到CloudFlare
 
-使用CloudFlare部署Pages项目了!
+#### 使用CloudFlare部署Pages项目了!
 
 ---
 
-Sleco-Ui Web Project
+# Sleco-Ui Web Project
 
-Principles:
+## Principles:
 
-The original Sleco-Ui.html is split into:
+### The original Sleco-Ui.html is split into:
 
-· index.html
+### · index.html
 
-· style.css
+### · style.css
 
-And the most important one!
+### And the most important one!
 
-· main.js
+### · main.js
 
-With these three components, you can upload to CloudFlare
+### With these three components, you can upload to CloudFlare
 
-and use CloudFlare Pages to deploy the project!
+### and use CloudFlare Pages to deploy the project!
+
+###### 使用 Ai 翻译
+###### Use Ai Translate
